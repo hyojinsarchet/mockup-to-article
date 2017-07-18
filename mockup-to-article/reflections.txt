@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned? Basic HTML skill to build web pages.
+  * What has been easy? It's been easy because I've taken HTML classes from Udacity before.
+  * What has been difficult? Connecting Udacity feedback link on Chrome was the hardest part so far.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far? I've used MDN and Google to solve the problems.
+
+---
+
+Your response goes here!
